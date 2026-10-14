@@ -290,8 +290,4 @@ document.body.addEventListener('click', growNextFlower);
 activeNote.addEventListener('click', (e) => e.stopPropagation()); // prevent block click side effects
 </script>
 </body>
-</html>
-/* Visual adjustments inside your custom preview workspace context layer */
-.flower-item {
-cursor: pointer;
-}
+</html> 
